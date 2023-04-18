@@ -18,5 +18,5 @@ Keep the file in ETL.py in some folder before running
 Given below are the results
 
 ![Optimal FileSize](ETLGraphpng.png)
-![Threading] (Thread_execut.png)
+![Threading](Thread_execut.png)
 
