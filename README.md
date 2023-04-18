@@ -15,5 +15,5 @@ Keep the file in ETL.py in some folder before running
 
 3. In Approach 3, Multiple threads work on each file and locking in the  priority order E, T, L.
 
-! [ETL] (ETLGraphpng.png)
+! (ETLGraphpng.png)
 
